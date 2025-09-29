@@ -1,4 +1,4 @@
-package week2;
+package week02;
 
 /**
  * C. Making Decisions
